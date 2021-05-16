@@ -6,7 +6,7 @@
 * [Features](#features)
 
 ## General info
-Its a place to add,Share and review Books
+It's a place to add,Share and review Books
 
 This Project is Book review app using NodeJS
 
@@ -21,3 +21,7 @@ This Project is Book review app using NodeJS
 * Get notification about the famous book festivals across the world.
 * Non affiliated links to the cheapest purchase sites
 
+## Brand
+<p align="center"> 
+<img src="./Images/brand.jpg">
+</p>
