@@ -1,5 +1,11 @@
-# BookWorm 
+ <p align="center"> 
+<img src="./Images/Logo.jpeg">
+</p>
+
+# BookWorm
+
 ### A joint for all the bibliophiles out there
+
 
 #### Table of contents
 * [General info](#general-info)
