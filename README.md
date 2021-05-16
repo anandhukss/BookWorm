@@ -1,5 +1,5 @@
 # BookWorm 
-### Bookworm is a joint for all the bibliophiles out there
+### A joint for all the bibliophiles out there
 
 #### Table of contents
 * [General info](#general-info)
